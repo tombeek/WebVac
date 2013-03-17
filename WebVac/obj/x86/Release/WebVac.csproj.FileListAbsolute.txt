@@ -1,0 +1,30 @@
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Release\WebVac.exe.manifest
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Release\WebVac.application
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Release\WebVac.exe
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Release\WebVac.pdb
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\WebVac.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\WebVac.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\WebVac.Splash.resources
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\WebVac.exe.manifest
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\WebVac.application
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\WebVac.exe
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Release\WebVac.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Release\WebVac.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Release\WebVac.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.Splash.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Release\WebVac.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Release\WebVac.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Release\WebVac.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.TrustInfo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Release\WebVac.application

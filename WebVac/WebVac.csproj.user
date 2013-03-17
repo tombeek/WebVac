@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Documents and Settings\Administrator\My Documents\My Dropbox\WebVac\|C:\Documents and Settings\Administrator\My Documents\WebVac\|D:\My Documents\BulletHire\WebVac\|ftp://islandm1:ta108pgiV%2a%2a%2a%40islandmarinefuel.com/public_html/webdataextractor/|http://islandmarinefuel.com/webdataextractor/</PublishUrlHistory>
+    <InstallUrlHistory>http://islandmarinefuel.com/Web Data Extractor/setup.exe/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.beeksoftware.com/webvac/|http://bullethire.com|http://www.bullethire.com</SupportUrlHistory>
+    <UpdateUrlHistory>http://islandmarinefuel.com/webdataextractor/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://www.beeksoftware.com/webvac/error/</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>

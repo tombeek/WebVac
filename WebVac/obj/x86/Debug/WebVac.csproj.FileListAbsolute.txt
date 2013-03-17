@@ -1,0 +1,39 @@
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\bin\Debug\WebVac.exe.manifest
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\bin\Debug\WebVac.application
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\bin\Debug\WebVac.exe
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\bin\Debug\WebVac.pdb
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\WebVac.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\WebVac.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\WebVac.Splash.resources
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\WebVac.exe.manifest
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\WebVac.application
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\WebVac.exe
+D:\My Documents\Visual Studio 2010\Projects\Web Data Extractor_old\Web Data Extractor\obj\x86\Debug\WebVac.pdb
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\WebVac.exe
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\WebVac.pdb
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Debug\WebVac.exe.manifest
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Debug\WebVac.application
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Debug\WebVac.exe
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\bin\Debug\WebVac.pdb
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\WebVac.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\WebVac.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\WebVac.Splash.resources
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\WebVac.exe.manifest
+D:\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\obj\x86\Debug\WebVac.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\WebVac.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\WebVac.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\WebVac.Splash.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\WebVac.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Debug\WebVac.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Debug\WebVac.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\bin\Debug\WebVac.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WebVac\WebVac\WebVac\obj\x86\Debug\WebVac.pdb
