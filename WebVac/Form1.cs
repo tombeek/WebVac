@@ -484,7 +484,7 @@ namespace WebVac {
                 try {
                     string[] ulist = File.ReadAllLines(rawUrls); // create temp array
                     urls.AddRange(ulist);
-                    List<string> results = urls.FindAll(FindNonyahoo); // create new list of non-google urls
+                    List<string> results = urls.FindAll(FindNonyahoo); // create new list of non-yahoo urls
                     if (results != null) {
                         results.Sort();
                         string[] s = results.ToArray();
