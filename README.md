@@ -1,5 +1,4 @@
 # WebVac
-======
 
 **WebVac** Contains a Web crawler, URL and email parsers, and text tools that work on whole files.
 
